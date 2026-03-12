@@ -1,22 +1,17 @@
 var addressPoints = [
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Enterprise Risk Management for LLM Deployment: Insights for Internal Auditors<br />Rutgers Business School; Newark, NJ, USA",
+    40.735657,
+    -74.1723667
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "AAA AIS and SET Midyear Meeting<br />Brigham Young University; Provo, UT",
+    40.2337289,
+    -111.6587085
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
-  ],
-  [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Managing Risks in Large Language Model Deployment \u2013 A Practical Guide for Auditors<br />UDeloitte Workshop; Madrid, Spain",
+    40.416782,
+    -3.703507
   ]
 ];
